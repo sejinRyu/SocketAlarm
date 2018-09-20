@@ -1,0 +1,9 @@
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SocketAlarm\SocketAlarm\bin\Release\SocketAlarm.exe.config
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SocketAlarm\SocketAlarm\bin\Release\SocketAlarm.exe
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SocketAlarm\SocketAlarm\bin\Release\SocketAlarm.pdb
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SocketAlarm\SocketAlarm\obj\Release\SocketAlarm.MainForm.resources
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SocketAlarm\SocketAlarm\obj\Release\SocketAlarm.Properties.Resources.resources
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SocketAlarm\SocketAlarm\obj\Release\SocketAlarm.csproj.GenerateResource.Cache
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SocketAlarm\SocketAlarm\obj\Release\SocketAlarm.exe
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SocketAlarm\SocketAlarm\obj\Release\SocketAlarm.pdb
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SocketAlarm\SocketAlarm\obj\Release\SocketAlarm.csprojResolveAssemblyReference.cache
